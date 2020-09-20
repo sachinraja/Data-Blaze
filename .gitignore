@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Imported packages
+[Aa]ssets/TextMesh Pro/
+[Aa]ssets/TextMesh Pro.meta
